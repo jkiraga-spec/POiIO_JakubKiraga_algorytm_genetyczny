@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="POiIO_JakubKiraga_algorytm_genetyczny/POiIO_JakubKiraga_algorytm_genetyczny.vcxproj" />
+</Solution>

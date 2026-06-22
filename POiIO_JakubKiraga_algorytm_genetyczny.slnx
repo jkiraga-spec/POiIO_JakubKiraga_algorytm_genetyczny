@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="POiIO_JakubKiraga_algorytm_genetyczny/POiIO_JakubKiraga_algorytm_genetyczny.vcxproj" />
+  <Project Path="POiIO_JakubKiraga_algorytm_genetyczny/POiIO_JakubKiraga_algorytm_genetyczny.vcxproj" Id="1e938182-656e-4adf-ba09-cb5e6fc92844" />
 </Solution>
